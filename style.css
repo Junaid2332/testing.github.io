@@ -16,7 +16,7 @@
     
 }
 
-@media (max-width: 768px) {
+@media (max-width: 340px) {
     .menu{
         visibility: visible;
     }
